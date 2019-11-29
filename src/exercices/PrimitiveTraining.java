@@ -10,15 +10,15 @@ public class PrimitiveTraining {
 		return "Hello";
 	}
 
-public static double real()
-{
-	return 3.14;
-}
+	public static double real()
+	{
+		return 3.14;
+	}
 
-public static boolean bool()
-{
-	return false;
-}
+	public static boolean bool()
+	{
+		return false;
+	}
 
 	public static void nothing() {
 	}
